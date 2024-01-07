@@ -2,6 +2,8 @@
 
 Question1 
 
-what is react
-what is hook
-what is babel
+1.what is react
+
+2.what is hook
+
+3.what is babel
